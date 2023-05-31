@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+
+#image{
+    position:relative;
+    top: 1px;
+    right: 2px;
+}
+
+
+#formcontent{
+    background-color: white;
+    width: 30%;
+    height: 70vh;
+    position: absolute;
+    top: 10%;
+    left:30%;
+    border: 2px solid gray;
+    border-radius: 5px;
+
+}
+
+form{
+    position: absolute;
+    top: 45%;
+    left: 10%;
+}
+
+#form-control{
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    width: 90%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    border: 1px solid black;
+    color: whitesmoke;
+}
+
+#control{
+    background-color: rgba(21, 255, 0, 0.989);
+    display: block;
+    width:95%;
+    margin: 20px;
+    padding:10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#his{
+   accent-color: steelblue; 
+   color:  steelblue;
+}
+
+#check{
+    color:  steelblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#mine{
+    padding:10%;
+    margin-bottom: 10%;
+    margin-left: 25%;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+
+
+a{
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: steelblue;
+}
+
+#para{
+    font-size: 20px;
+    margin-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
